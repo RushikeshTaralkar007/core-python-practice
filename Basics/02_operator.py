@@ -122,3 +122,60 @@ print(0.1 + 0.2)
 
 # Q30) Complex Expression 
 print((5+3) * 2+4 -5/2)
+
+
+#############    (Comparision Operators)    ##################
+
+###################  ( Day 2 )   ###################
+
+# Q31) Equal check 
+
+print(5 == 5)
+print(5 == 4)
+
+# Q32) Not Equal
+
+print(5 != 4)
+print(4 != 4)
+
+# Q33) Greater than
+
+print(10 > 5) ## True 
+print(10 < 5) ## False 
+
+# Q34) Less Than
+
+
+print(10 > 5) ## True 
+print(10 < 5) ## False 
+
+# Q35) Greater Equal 
+
+print(20 >= 10)
+
+# Q35) Less Equal 
+
+print(50 <= 100)
+
+# Q36) compare string 
+
+print("a" == "a")
+
+
+# Q37) compare different string type
+
+print("a" == "b")
+
+# Q38) compare Float
+
+print(2.5 == 2.3)
+print(2.5 > 2.3)
+
+# Q39) compare Negative Number 
+
+print(-5 > -2)
+
+# Q40) chain Comaparision 
+
+print( 4 < 25 < 65)
+

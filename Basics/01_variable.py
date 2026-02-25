@@ -137,4 +137,193 @@ name = "Rushikesh"
 print(len(name))
 
 
-###################   (Day )    ###################
+###################   (Day 3 )    ###################
+
+# Q21) Convert String to Uppercase 
+
+text = "data"
+print(text.upper())
+
+# Q22) check variable exists
+
+x= 10
+print("x" in globals())
+
+# Q23) Delete Variable 
+
+x= 10
+del x
+
+# Q24) use f-string 
+
+name = "Rushikesh"
+age =20
+print(f"My Name Is {name} and My Age Is {age}")
+
+# Q25) check type using isinstance()
+
+x=10
+print(isinstance(x , int))
+
+# Q26) Multiple Two Variables 
+
+a=5
+b=20
+print(a*b)
+
+# # Q27) calculate the sqaure of number
+
+# x=int(input("Enter The Number:"))
+# print(x **2)
+
+
+# Q28) check string is numeric 
+
+x = '123'
+print(x.isdigit())
+
+# Q29) Boolean variable example 
+
+is_active =True
+print(type(is_active))
+
+# Q30) type casting float to int
+
+x=10.8
+print(int(x))
+
+# # Q31) use input and print datatype
+
+# x= input("Enter The Value:")
+# print(type(x))
+
+# Q32) Assign list to variables 
+
+num = [1,2,3]
+print(num)
+
+# Q33) Assign dictionary to variable
+
+student = {"name": "Rushikesh", "age": 20}
+print(student)
+
+# Q34) use id function()
+
+x= 10
+print(id(x))
+
+# Q35) check memory address difference 
+
+a= 10
+b= 10
+print(id(a))
+print(id(b))
+
+# Q36) Mutable and immutable example 
+
+a=10
+b=a
+a=20
+print(b)  ##  Its a Immutable Example 
+
+# Q37) list mutability 
+
+a= [1,2,3]
+b =a
+a.append(4)
+print(b)
+
+# Q38) global variable example 
+
+x=10
+
+def show():
+    print(x)
+show()
+
+# Q39) Local variable example 
+
+def test():
+    y=5
+    print(y)
+test()
+
+# Q40) use global keyword
+
+x=5
+
+def change():
+    global x
+    x=20
+change()
+print(x)
+
+# Q41) constatnt variable convention
+
+PI = 3.14
+
+# Q42) Dynamic typing example 
+
+x=10
+x="python"
+print(x)
+
+# Q43) check reference behaviour 
+
+a=[1,2]
+a.append(3)
+b=a.copy()
+print(b)
+
+# Q44) None Type VAriable 
+
+x=None
+print(type(x))
+
+# Q45) check multiple conditions 
+
+a=20
+b=55
+c=30
+
+print(a < b < c)
+
+a=20
+b=30
+c=50
+
+print(a < b < c)
+
+# Q46) use walrus operator 
+
+if (n := 5) >3:
+    print(n)
+
+# Q47) variable shadowing 
+
+x=10
+
+def test():
+    x=20
+    print(x)
+test()
+print(x)
+
+
+
+# Q48) swap without third variable 
+
+a = 5
+b = 7
+a = a+b
+b = a-b
+a = a-b
+print("a:",a,'b:', b)
+
+# Q49) check identity and eqality 
+
+a =[1,2]
+b =[1,2]
+print(a == b)
+print(a is b)
+
