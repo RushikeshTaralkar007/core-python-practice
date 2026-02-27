@@ -405,3 +405,203 @@ print((30000 <= salary <= 80000) or exp > 5)
 ###################  ( Day 4 )   ###################
 
 
+# Q81) increase marks by 15
+
+marks =70
+marks += 15
+print(marks)
+
+# Q82) Decrease stock by 3
+
+stock = 20
+stock -= 3
+print(stock)
+
+# Q83) Triple a number 
+
+x=4
+x *=3
+
+print(x)
+
+# Q84) divide salary by 2
+
+salary = 40000
+salary /= 2
+print(salary)
+
+# Q85) Floor divide 50 by 6
+
+x=50
+x //=6
+print(x)
+
+# Q86) find the remainder when divided by 4
+
+x = 22
+x % 4 == 0
+
+print(x)
+
+# Q87) Raise to cube 
+
+x= 3
+x **= 3
+print(x)
+
+# Q88) increase balance in loop 
+
+balance = 0 
+for i in range(5):
+    balance += 100
+print(balance)
+
+# Q89) Deduct GST 18 %
+
+price = 1000
+price = price * 0.18
+print(price)
+
+# 90) increase by 10% then multiple by 2 
+
+x=100
+x += x * 0.10
+x *= 2
+print(x)
+
+# Q91) first Substract then half of number 
+
+x=40
+x -= x/2 
+print(x)
+
+# Q92) Multiple by (x+1)
+
+x= 5
+x *= (x+1)
+print(x)
+
+# Q93) Add 5 then Square 
+
+x= 3
+x += 5
+x **= 2
+print(x)
+
+# Q94) Halve Repeatedly 
+
+x = 64
+x /= 2
+x /= 2
+print(x)
+
+
+# Q95) Modulus Chain 
+
+x =100
+x %= 30
+x %= 4
+
+print(x)
+
+# Q96) Bank Deductuction 
+
+balance = 5000
+withdraw = 1000
+balance -= withdraw
+print(balance)
+
+
+
+#############    (Identity & Membership Operators)    ##################
+
+
+# Q97) Compare two tuples using is 
+
+a = (1,2)
+b = (1,2)
+print( a is b)
+
+
+# Q98) Assign tuple reference 
+
+a= (1,2)
+b= a
+print(a is b)
+
+# Q99) check if variable is not None 
+
+x= "Data"
+print(x is not None)
+
+# Q100) Comapre Large Integers identity 
+
+a = 1000
+b = 1000
+print( a is b)
+
+# Q101) Membership in set 
+
+s= {10,20,30}
+print(20 in s)
+
+# Q102) Membership in string case sensitive
+
+print("d" in "Data")
+
+# Q103) Not in dictionary keys
+
+d = {"a":1, "b": 2}
+print("c"not in d)
+
+# Q104) Compare two copied dictionaries
+
+a = {"x": 1}
+b = a.copy() 
+print(a is b)
+
+
+# Q105) Compare equality vs identity in dict
+
+a = {"x": 1}
+b = {"x": 1}
+print(a == b)
+print(a is b)
+
+# Q106) check substing not present 
+
+print("AI" not in "Data Science")
+
+
+# Q107) check a string is present or not
+
+text = "Engineer"
+print("Eng" in text)
+
+# Q108) check number in the set exist
+
+print(5 not in {1,6,8})
+
+# Q109) check is equality 
+
+x = 569
+y = 456
+print( x is b)
+
+# Q110) check the symbol equality 
+
+a= []
+b =[]
+print(a == b)
+
+
+a= []
+b ={}
+print(a == b)
+
+
+a= []
+b =[]
+print(a is b)
+
+
