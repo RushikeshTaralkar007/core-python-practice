@@ -179,3 +179,229 @@ print(-5 > -2)
 
 print( 4 < 25 < 65)
 
+# Q41) comapre length 
+
+print(len("python") == 6)
+
+# Q42) compare booleans 
+
+print(True == 1)
+
+# Q43) compare False
+
+print(False == 0)
+
+# Q44) comapre list eqaulity 
+
+print([1,2] == [1,3])
+
+print([3,2] == [3,2])
+
+# Q45) comapre list ineqaulity 
+
+print([3,2] != [3,2])
+
+# Q46) compare uppercase 
+
+print("A" > "a")
+
+# Q47) Compare Ascii
+
+print(ord("A") < ord("B"))
+
+# Q48) compare input number 
+
+num = 10
+print(num > 4)
+
+# Q49) Nested comparision 
+
+print(5 < 10 and 10 < 20)
+
+# Q50) compare zero 
+
+print(0 == False )
+
+# Q51) compare None 
+
+print( None == None)
+
+# Q52) comapre float precision
+
+print(0.3 + 0.2 == 0.5)
+
+# Q53) comapre string length 
+
+print(len("data") > len("AI"))
+
+# Q54) comapre user age 
+
+age = 20
+print(age >= 18)
+
+# Q55) Compare dictionary equality
+
+print( {a:1} == {a:1})
+
+# Q56) compare tuple 
+
+print((1,2) <(1,3))
+
+# Q57) compare mixed numbers 
+
+print(5.0 == 5)
+
+# Q58) compare negative equality 
+
+print(-10 == -10)
+
+# Q59) complex comparison
+
+print( 5*2 > 3+6)
+
+
+#############    (Logical  Operators)    ##################
+
+###################  ( Day 3 )   ###################
+
+
+# # Q60) Check number between 10 and 20
+
+# num = int(input("Enter The number :"))
+# print(num>=15 and num <20)
+
+
+# # Q61) Check divisible by 3 AND 5
+
+# num = int(input("Enter The Number :"))
+# print(num % 3 == 0 and num % 5 ==0)
+
+
+# # Q62) Pass if marks >=40 AND attendance >=75
+
+# marks = int(input("Enter The marks :"))
+# Attendence  = int(input("Enter The Attendence :"))
+
+# print(marks >= 40 and Attendence >=75)
+
+
+# # Q63) Eligible for job (age >18 OR experience >2)
+
+# age = int(input("Enter The Age :"))
+# exp = int(input("Enter The Expence :"))
+
+# print( age > 18 and exp > 2)
+
+
+
+# Q64) NOT operator
+
+is_logged_in = False
+print(not is_logged_in)
+
+# Q65) Complex condition
+
+a= 5
+b= 10
+print(a<b and b<20 or a==5)
+
+# Q65) Short-circuit example
+
+print(False and 10/0)
+
+# Q66) OR short-circuit
+
+print(True or 10/0)
+
+# # Q67) check password 
+
+# password = input("Enter Password :")
+# print(len(password) >= 8 and "@" in password)
+
+
+# # Q68) Check vowel
+
+# ch = input("Enter The Character :")
+# print(ch in "aeiou" and ch.islower())
+
+
+# # Q69) Nested logical
+
+# Age = int(input("Enter The Age :"))
+# salary = int(input("Enter The Salary :"))
+
+# print((age > 18 and salary > 30000) and salary<50000)
+
+
+# # Q70) Check leap year logic
+
+# year = int(input("Enter The Year :"))
+# print((year % 4 == 0 and year % 100 != 0) or year % 400 == 0)
+
+
+# Q71) Truthy check
+
+print(bool([]) or bool("python"))
+
+# Q72) Empty string check
+
+Name = ""
+print(not Name)
+
+# Q73) Check uppercase and digit
+
+x= "A1"
+print(x[0].isupper() and x[1].isdigit())
+
+# Q74) Login check 
+
+username = "admin"
+password = "1234"
+
+print( username == "admin" and password == "1234" )
+
+# Q75) Complex logical chaining
+
+x= 10
+print((x >5 and x<20) and not (x == 10))
+
+
+
+# # Q76) Check if number is even OR divisible by 9
+
+# num = int(input("Enter The Number :"))
+
+# print(num % 2==0 or num % 9 == 0)
+
+# # Q77) Check strong password (≥8 chars AND uppercase AND digit)
+
+
+# password = "Admin123"
+# print(len(password) >= 8 any(c.isupper() for c in password) and any(c.isdigit() for c in password))
+
+
+
+# Q78) Check if at least two numbers are positive
+
+a , b , c = 5,-2,3
+
+print((a > 0 and b>0) or (a>0 and c>0) or (b>0 and c>0))
+
+# Q79) Check if salary is between 30000–80000 OR experience > 5
+
+salary = 25000
+exp = 6
+print((30000 <= salary <= 80000) or exp > 5)
+
+# # Q80) Check if number is divisible by 2 AND 3 but NOT 6
+
+# num = int(input("Enter The Number :"))
+# print((num % 2 ==0 and num % 3 == 0) and not num % 6 != 0)
+
+
+
+#############    (Assignment Operators)    ##################
+
+###################  ( Day 4 )   ###################
+
+
