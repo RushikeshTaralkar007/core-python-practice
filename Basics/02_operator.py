@@ -313,10 +313,13 @@ print(False and 10/0)
 
 print(True or 10/0)
 
+
+
 # # Q67) check password 
 
 # password = input("Enter Password :")
 # print(len(password) >= 8 and "@" in password)
+
 
 
 # # Q68) Check vowel
@@ -353,6 +356,7 @@ print(not Name)
 x= "A1"
 print(x[0].isupper() and x[1].isdigit())
 
+
 # Q74) Login check 
 
 username = "admin"
@@ -373,6 +377,8 @@ print((x >5 and x<20) and not (x == 10))
 
 # print(num % 2==0 or num % 9 == 0)
 
+
+
 # # Q77) Check strong password (≥8 chars AND uppercase AND digit)
 
 
@@ -392,6 +398,8 @@ print((a > 0 and b>0) or (a>0 and c>0) or (b>0 and c>0))
 salary = 25000
 exp = 6
 print((30000 <= salary <= 80000) or exp > 5)
+
+
 
 # # Q80) Check if number is divisible by 2 AND 3 but NOT 6
 
