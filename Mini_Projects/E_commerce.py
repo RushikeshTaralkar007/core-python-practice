@@ -1,7 +1,7 @@
-##################      MINI PROJECT 1 (User Input Version)      ########################
+################## #########     MINI PROJECT 1 (User Input Version)      ###############################
 
-#####################  Smart E-Commerce Billing System   #########################
-
+################################  Smart E-Commerce Billing System    ##################################
+#######################   Used Python : Variables , Operators , Conditions ############################
 
 
 print("=== SMART BILLING SYSTEM ===")
