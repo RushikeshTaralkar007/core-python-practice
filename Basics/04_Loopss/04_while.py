@@ -1,8 +1,8 @@
-####################    (For Data Engineer & Big Data Solve The All Loop Problems Like While , For Nested + Pattern Problems)    ###############################
+####################    (For Data Engineer & Big Data Solve The While Loop Problems)    ###############################
 
 #############    (While Loop)    ##################
 
-###################  ( Day 1 )   ###################
+
 
 
 # # Q1) Print 1-10
