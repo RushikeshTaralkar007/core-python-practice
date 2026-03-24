@@ -359,3 +359,146 @@
 
 # for k,v in record.items():
 #     print(k,":",v)
+
+
+
+# # Q41) Dictionary iterate like Batch Processing 
+
+# data ={"a":1, "b":2, "c":3}
+
+# for k,v in data.items():
+#     print("Processing",k,v)
+
+
+
+# # Q42) Sort The Dictionary values in descending order 
+
+# data ={"a":10, "b":50, "c":30}
+
+# sorted_data = dict(sorted(data.items(), key=lambda x: x[1], reverse=True))
+
+# print(sorted_data)
+
+
+
+# # Q43) Calculate The Total Salary in the Nested dictionary 
+
+# data ={
+#     "emp1":{"salary":5000},
+#     "emp2":{"salary":7000},
+#     "emp3":{"salary":6000}
+# }
+
+# total =0
+
+# for emp in data.values():
+#     total += emp["salary"]
+# print(total)
+
+
+
+# # Q44)Find The Average Age In The List Of Dictionary 
+
+# data = [
+#     {"name":"Rushi","age":21},
+#      {"name":"Ram","age":31}
+# ]
+
+# total =0
+
+# for d in data:
+#     total += d["age"]
+
+# avg = total / len(data)
+# print(avg)
+
+
+
+# # Q45) Find The Duplicate Values From The Dictonary 
+
+# data = {"a":10,"b":20,"c":10,"d":30}
+
+# duplicates =[]
+
+# for v in data.values():
+#     if list(data.values()).count(v) > 1 and v not in duplicates:
+#         duplicates.append(v)
+
+# print(duplicates)
+
+
+
+
+# # Q46) In Nested dictionary find out the highest salary employee 
+
+# data = {
+#     "emp1":{"salary":5000},
+#     "emp2":{"salary":9000},
+#     "emp3":{"salary":7000}
+# }
+
+
+# max_emp = max(data, key = lambda x: data[x]["salary"])
+
+# print(max_emp)
+
+
+
+# # Q47) In Dictionary do the keys in uppercase 
+
+# data = {"name":"Rushi","city":"Pune"}
+
+# result ={}
+
+# for k,v in data.items():
+#     result[k.upper()] =v
+# print(result)
+
+
+
+
+# # Q48) Dictionary Values Converted Into Percentage 
+
+# data = {"A":50,"B":150,"C":100}
+
+# total = sum(data.values())
+
+# result ={}
+
+# for k,v in data.items():
+#     result[k]= (v/total)*100
+
+# print(result)
+
+
+
+# # Q49) Filter The List Of Dictionary - sales >150
+
+# data = [
+#     {"sales":100},
+#     {"sales":200},
+#     {"sales":300}
+# ]
+
+
+# result =[]
+
+# for d in data:
+#     if d["sales"] >150:
+#         result.append(d)
+# print(result)
+
+
+
+# # Q50) Find Calculate The Moving Average 
+
+# data = {"a":10,"b":20,"c":30}
+
+# values = list(data.values())
+
+# moving_avg =[]
+
+# for i in range(1,len(values)):
+#     moving_avg.append((values[i] + values[i-1])/ 2)
+
+# print(moving_avg)
