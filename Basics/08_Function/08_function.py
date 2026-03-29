@@ -353,3 +353,160 @@
 #     return freq
 
 # print(frequency([1,1,2,3]))
+
+
+
+# # Q36) Write a fuction to flatten nested list 
+
+# def flatten(lst):
+#     result=[]
+
+#     for sub in lst:
+#         for item in sub:
+#             result.append(item)
+#     return result
+
+# print(flatten([[1,2],[3,4],[5,6]]))
+
+
+
+
+# # Q37) Write a fuction to calculate moving average 
+
+# def moving_avg(lst):
+#     result =[]
+
+#     for i in range(1,len(lst)):
+#         result.append((lst[i] + lst[i-1] /2))
+#     return result
+
+# print(moving_avg([10,20,30,40]))
+
+
+
+# # Q38) Write a fuction to validate email 
+
+# def validate_email(email):
+#     return "@" in email and "." in email
+
+# print(validate_email("test@gmail.com"))
+
+
+
+# # Q39) Write a function to mask phone number
+
+# def phone(num):
+#     return num[:2] + "******" + num[-2:]
+# print(phone("8720833556"))
+
+
+
+# # Q40) Write a function to convert list of dict to dict by id
+
+# def index_id(data):
+#     result ={}
+#     for d in data:
+#         result[d["id"]] =d
+#     return result
+
+# print(index_id([{"id":1,"name":"Rushi"},{"id":2,"name":"Ram"}]))
+
+
+
+# # Q41) Write a function to calculate percentage
+
+# def percentage(values):
+#     total = sum(values)
+#     return [(v/total)*100 for v in values]
+# print(percentage([50,100,200]))
+
+
+
+# # Q42) Write a function to find second largest number
+
+# def second_lar(lst):
+#     lst = list(set(lst))
+#     lst.sort()
+#     return lst[-2]
+
+# print(second_lar([10,20,30,50,60,70]))
+
+
+
+# # Q43) Write a function to check password strength
+
+# def strong_pass(p):
+#     return len(p) >= 8
+
+# print(strong_pass("abcd@123"))
+
+
+
+# Q44) Write a function to convert list of strings to uppercase
+
+# def upper_list(lst):
+#     return [x.upper() for x in lst]
+
+# print(upper_list(["data", "engineer"]))
+
+
+
+# # Q45) Write a function to remove null values from dictionary
+
+# def remove_null(d):
+#     return {k:v for k,v in d.items() if v is not None}
+
+# print(remove_null({"a":10,"b":20,"c":None}))
+
+
+
+
+# # Q46) Write a function to group numbers by even and odd
+
+# def group_num(lst):
+#     result = {"even":[], "odd":[]}
+#     for i in lst:
+#         if i%2 == 0:
+#             result["even"].append(i)
+        
+#         else:
+#             result["odd"].append(i)
+#     return result
+# print(group_num([1,2,3,4,5]))
+
+
+
+# # Q47) Write a function to find common elements between lists
+
+# def common(a,b):
+#     return list(set(a) & set(b))
+# print(common([1,2,3],[2,3,4]))
+
+
+
+# # Q48) Write a function to generate OTP
+
+# import random 
+
+# def generate_otp():
+#     return random.randint(1000, 9999)
+
+# print(generate_otp())
+
+
+
+# # Q49) Write a function to check if list is sorted
+
+# def is_sorted(lst):
+#     return lst == sorted(lst)
+
+# print(is_sorted([1,2,3]))
+
+
+
+# # Q50) Write a function to count records
+
+# def count_record(data):
+#     return len(data)
+
+# print(count_record([{"a":1},{"b":2}]))
