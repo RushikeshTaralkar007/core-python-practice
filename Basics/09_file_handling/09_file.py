@@ -47,12 +47,12 @@
 # file.close()
 
 
-# ## Q6) Used Append Mode
+# # ## Q6) Used Append Mode
 
-file = open("C:\Desktop\Python\Git_Core_Python\example2.txt",'a')
+# file = open("C:\Desktop\Python\Git_Core_Python\example2.txt",'a')
 
-file.write("\n,How Are you ?")
-file.close()
+# file.write("\n,How Are you ?")
+# file.close()
  
 
 
