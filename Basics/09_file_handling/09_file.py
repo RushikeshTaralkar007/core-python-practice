@@ -193,15 +193,196 @@ with open("example.txt", "r") as file:
 
 
 
-# Q24) count Electronics 
+# # Q24) count Electronics 
 
-print(sum(1 for i in valid_data if i['category'] == "Electronics"))
-
-
+# print(sum(1 for i in valid_data if i['category'] == "Electronics"))
 
 
 
+# # Q25) Count Clothing
+
+# print(sum(1 for i in valid_data if i['category'] == "Clothing"))
 
 
+
+# # Q26) Count Accessories 
+
+# print(sum(1 for i in valid_data if i["category"] == "Accessories"))
+
+
+
+# # Q27) Items above 20000
+
+# print([i for i in valid_data if i['price']>20000])
+
+
+
+# # Q28) count items > 20000
+
+# print(sum(1 for i in valid_data if i['price']>20000))
+
+
+
+
+# # Q29) items <= 20000
+
+# print([i for i in valid_data if i['price'] <= 20000])
+
+
+# # Q30) Get Only The product names > 20000
+
+# print([i['name'] for i in valid_data if i['price'] > 20000])
+
+
+
+
+# # Q31) category wise count 
+
+# cat_count ={}
+
+# for i in valid_data:
+#     cat_count[i['category']]=cat_count.get(i['category'],0)+1
+
+# print(cat_count)
+
+
+
+
+# # Q32) Category wise sales 
+
+# sales ={}
+
+# for i in valid_data:
+#     sales[i['category']] = sales.get(i['category'],0) + i['price']
+# print(sales)
+
+
+
+
+# # Q33) Get all product names in list 
+
+# names = [i["name"] for i in valid_data]
+# print(names)
+
+
+
+# # Q34) Find Laptop price 
+
+# for i in valid_data:
+#     if i['name'] == 'Laptop':
+#         print(i['price'])
+
+
+
+
+# # Q35) Find Product Less then 20000
+
+# print([i for i in valid_data if i['price'] < 20000])
+
+
+
+# # Q36) sum of electronic sales 
+
+# print(sum(i['price'] for i in valid_data if i['category'] == "Electronics"))
+
+
+
+# # Q37) Get Unique Category 
+
+# print(set(i['category'] for i in valid_data))
+
+
+
+# # Q38) sort by price ascending 
+
+# print(sorted(valid_data, key=lambda x:x['price']))
+
+
+
+# # Q39) sort by price descending 
+
+# print(sorted(valid_data, key=lambda x:x['price'], reverse=True))
+
+
+
+# # Q40) Top 3 expensive 
+
+# print(sorted(valid_data, key=lambda x:x['price'], reverse=True)[:3])
+
+
+
+# # Q41) Bottom 3 cheapest 
+
+# print(sorted(valid_data , key=lambda x:x['price'])[:3])
+
+
+
+# # Q42) write a clean data 
+
+# with open("clean.txt",'w') as f:
+#     for i in valid_data:
+#         f.write(str(i)+ "\n")
+
+
+
+# # Q43) write invalid data 
+
+# with open('clean.txt','w') as f:
+#     for i in invalid_data:
+#         f.write(str(i)+"\n")
+
+
+
+# # Q44) find most expensive product 
+
+# print(max(valid_data, key=lambda x:x['price']))
+
+
+
+# # Q45) find most expensive product 
+
+# print(min(valid_data, key=lambda x:x['price']))
+
+
+
+# # Q46) Group by category 
+
+# group ={}
+
+# for i in valid_data:
+#     group.setdefault(i['category'],[]).append(i)
+# print(group)
+
+
+
+# # Q47) Count invalid entries 
+
+# print(len(invalid_data))
+
+
+
+# # Q48) Add new column : High & Low 
+
+# for i in valid_data:
+#     i['type'] ="High" if i['price'] >20000 else "Low"
+# print(valid_data)
+
+
+
+# # Q49) Get High Category names
+
+# print([i["name"] for i in valid_data if i["price"]>20000])
+
+
+
+# # Q50) Create summary dictionary 
+
+# summary ={
+#     "total" : len(valid_data) + len(invalid_data),
+#     "valid" : len(valid_data),
+#     "invalid" : len(invalid_data)
+# }
+
+# print(summary)
 
 
