@@ -1,0 +1,502 @@
+ID	RollNo	Name	Course	Dept	Age	Attendence	Total	Percentage	 Grade
+---	------------	---------------------	--------------------------	----------------	------	-------	---------	------	--------------
+1	R1001	Karan Nair	Electronics	Engineering	18	89	308	61.6	B
+2	R1002	Neha Verma	Information Technology	IT	23	79	256	51.2	C
+3	R1003	Arjun Gupta	Mechanical Engineering	IT	18	62	324	64.8	B
+4	R1004	Karan Desai	Mechanical Engineering	AI	20	61	286	57.2	C
+5	R1005	Priya Verma	Information Technology	Core	25	89	355	71	B
+6	R1006	Rahul Desai	Mechanical Engineering	IT	22	92	294	58.8	C
+7	R1007	Neha Desai	Artificial Intelligence	IT	25	62	309	61.8	B
+8	R1008	Rohan Kulkarni	Computer Science	Data	23	87	317	63.4	B
+9	R1009	Priya Gupta	Mechanical Engineering	Data	20	67	311	62.2	B
+10	R1010	Rohan Joshi	Data Science	Engineering	18	86	353	70.6	B
+11	R1011	Arjun Sharma	Data Science	Engineering	24	88	416	83.2	B
+12	R1012	Rohan Nair	Computer Science	AI	22	79	343	68.6	B
+13	R1013	Arjun Patel	Data Science	Engineering	20	88	343	68.6	B
+14	R1014	Rohan Singh	Information Technology	Engineering	25	61	335	67	B
+15	R1015	Karan Mehta	Electronics	Core	24	99	372	74.4	B
+16	R1016	Priya Sharma	Artificial Intelligence	AI	18	85	372	74.4	B
+17	R1017	Rahul Singh	Mechanical Engineering	AI	25	88	384	76.8	B
+18	R1018	Rohan Mehta	Electronics	Engineering	24	70	413	82.6	B
+19	R1019	Karan Joshi	Artificial Intelligence	Core	23	89	386	77.2	B
+20	R1020	Neha Joshi	Artificial Intelligence	IT	22	65	338	67.6	B
+21	R1021	Priya Kulkarni	Data Science	Core	20	70	329	65.8	B
+22	R1022	Arjun Desai	Mechanical Engineering	Engineering	22	79	318	63.6	B
+23	R1023	Neha Desai	Data Science	IT	22	68	392	78.4	B
+24	R1024	Anjali Gupta	Computer Science	AI	18	89	301	60.2	B
+25	R1025	Amit Mehta	Electronics	IT	20	61	299	59.8	C
+26	R1026	Priya Desai	Electronics	Data	22	90	372	74.4	B
+27	R1027	Rahul Patel	Artificial Intelligence	Core	22	83	234	46.8	C
+28	R1028	Amit Gupta	Information Technology	Engineering	24	94	325	65	B
+29	R1029	Amit Joshi	Data Science	AI	23	89	369	73.8	B
+30	R1030	Pooja Patel	Mechanical Engineering	AI	21	94	279	55.8	C
+31	R1031	Anjali Nair	Information Technology	IT	21	88	386	77.2	B
+32	R1032	Pooja Sharma	Mechanical Engineering	Data	25	95	288	57.6	C
+33	R1033	Arjun Nair	Information Technology	Engineering	21	65	337	67.4	B
+34	R1034	Rohan Sharma	Computer Science	Core	19	65	275	55	C
+35	R1035	Karan Joshi	Information Technology	Engineering	24	97	397	79.4	B
+36	R1036	Rahul Kulkarni	Data Science	Core	20	100	365	73	B
+37	R1037	Priya Patel	Information Technology	Engineering	18	69	368	73.6	B
+38	R1038	Pooja Joshi	Artificial Intelligence	IT	22	100	351	70.2	B
+39	R1039	Anjali Patel	Data Science	Engineering	18	95	302	60.4	B
+40	R1040	Priya Desai	Data Science	IT	20	70	395	79	B
+41	R1041	Amit Gupta	Electronics	Core	21	61	322	64.4	B
+42	R1042	Rohan Gupta	Mechanical Engineering	Core	20	96	239	47.8	C
+43	R1043	Priya Nair	Mechanical Engineering	IT	22	76	285	57	C
+44	R1044	Amit Kulkarni	Computer Science	Core	25	64	382	76.4	B
+45	R1045	Rahul Verma	Electronics	Core	25	95	331	66.2	B
+46	R1046	Neha Mehta	Data Science	IT	23	100	313	62.6	B
+47	R1047	Amit Joshi	Mechanical Engineering	Data	24	96	363	72.6	B
+48	R1048	Pooja Nair	Electronics	Data	25	67	353	70.6	B
+49	R1049	Anjali Joshi	Electronics	IT	21	77	446	89.2	A
+50	R1050	Priya Mehta	Information Technology	Core	21	99	336	67.2	B
+51	R1051	Rahul Kulkarni	Artificial Intelligence	AI	25	91	336	67.2	B
+52	R1052	Amit Nair	Information Technology	AI	19	61	315	63	B
+53	R1053	Arjun Verma	Mechanical Engineering	Data	21	64	340	68	B
+54	R1054	Amit Nair	Electronics	IT	18	88	346	69.2	B
+55	R1055	Karan Gupta	Data Science	Core	22	84	359	71.8	B
+56	R1056	Priya Nair	Artificial Intelligence	Data	20	82	311	62.2	B
+57	R1057	Priya Patel	Information Technology	IT	18	100	287	57.4	C
+58	R1058	Rahul Singh	Data Science	IT	23	97	329	65.8	B
+59	R1059	Neha Verma	Mechanical Engineering	Data	25	92	277	55.4	C
+60	R1060	Sneha Kulkarni	Data Science	Data	19	77	356	71.2	B
+61	R1061	Rahul Singh	Data Science	IT	21	79	350	70	B
+62	R1062	Priya Nair	Information Technology	Core	19	74	344	68.8	B
+63	R1063	Rohan Gupta	Computer Science	AI	18	86	333	66.6	B
+64	R1064	Neha Sharma	Data Science	AI	24	88	392	78.4	B
+65	R1065	Rahul Mehta	Data Science	Core	22	68	332	66.4	B
+66	R1066	Priya Mehta	Data Science	Core	24	96	363	72.6	B
+67	R1067	Sneha Verma	Electronics	Data	25	98	301	60.2	B
+68	R1068	Priya Nair	Computer Science	Engineering	24	73	360	72	B
+69	R1069	Amit Nair	Mechanical Engineering	Core	24	73	263	52.6	C
+70	R1070	Pooja Nair	Mechanical Engineering	Engineering	23	96	330	66	B
+71	R1071	Neha Nair	Artificial Intelligence	Data	23	77	347	69.4	B
+72	R1072	Rohan Joshi	Information Technology	Engineering	24	79	312	62.4	B
+73	R1073	Rahul Desai	Mechanical Engineering	Data	24	85	339	67.8	B
+74	R1074	Arjun Verma	Electronics	Core	21	65	352	70.4	B
+75	R1075	Pooja Singh	Electronics	AI	22	65	414	82.8	B
+76	R1076	Rohan Nair	Information Technology	Data	19	74	351	70.2	B
+77	R1077	Neha Patel	Mechanical Engineering	Core	25	70	389	77.8	B
+78	R1078	Priya Sharma	Computer Science	Engineering	20	89	375	75	B
+79	R1079	Karan Mehta	Electronics	AI	24	62	377	75.4	B
+80	R1080	Rohan Kulkarni	Data Science	Engineering	21	78	358	71.6	B
+81	R1081	Arjun Kulkarni	Mechanical Engineering	Core	19	69	396	79.2	B
+82	R1082	Neha Nair	Data Science	Engineering	18	68	299	59.8	C
+83	R1083	Arjun Verma	Mechanical Engineering	Data	18	99	377	75.4	B
+84	R1084	Arjun Mehta	Computer Science	IT	22	68	371	74.2	B
+85	R1085	Anjali Sharma	Information Technology	Data	25	82	450	90	A
+86	R1086	Anjali Joshi	Mechanical Engineering	Engineering	22	97	271	54.2	C
+87	R1087	Sneha Gupta	Electronics	Core	25	81	363	72.6	B
+88	R1088	Karan Kulkarni	Data Science	Core	23	63	334	66.8	B
+89	R1089	Pooja Sharma	Artificial Intelligence	IT	18	70	309	61.8	B
+90	R1090	Sneha Verma	Information Technology	IT	18	69	339	67.8	B
+91	R1091	Amit Mehta	Information Technology	Data	25	91	297	59.4	C
+92	R1092	Amit Nair	Computer Science	Engineering	21	62	323	64.6	B
+93	R1093	Priya Joshi	Information Technology	Core	23	87	221	44.2	C
+94	R1094	Rahul Mehta	Electronics	Engineering	25	69	269	53.8	C
+95	R1095	Neha Nair	Mechanical Engineering	IT	21	80	391	78.2	B
+96	R1096	Priya Desai	Information Technology	Core	19	81	260	52	C
+97	R1097	Neha Gupta	Electronics	AI	22	80	314	62.8	B
+98	R1098	Rahul Kulkarni	Data Science	IT	22	82	288	57.6	C
+99	R1099	Rohan Patel	Mechanical Engineering	AI	20	79	368	73.6	B
+100	R1100	Amit Patel	Data Science	Data	21	66	365	73	B
+101	R1101	Neha Patel	Computer Science	AI	22	88	352	70.4	B
+102	R1102	Neha Joshi	Information Technology	Engineering	21	96	386	77.2	B
+103	R1103	Pooja Kulkarni	Computer Science	IT	25	99	385	77	B
+104	R1104	Priya Kulkarni	Computer Science	Engineering	20	92	365	73	B
+105	R1105	Anjali Joshi	Information Technology	Core	25	61	358	71.6	B
+106	R1106	Sneha Joshi	Information Technology	IT	18	62	381	76.2	B
+107	R1107	Amit Verma	Computer Science	Engineering	25	75	327	65.4	B
+108	R1108	Anjali Singh	Electronics	Engineering	21	71	415	83	B
+109	R1109	Sneha Gupta	Mechanical Engineering	Data	24	96	345	69	B
+110	R1110	Priya Singh	Data Science	Core	18	64	364	72.8	B
+111	R1111	Karan Sharma	Data Science	AI	25	73	295	59	C
+112	R1112	Neha Verma	Information Technology	Data	20	73	308	61.6	B
+113	R1113	Neha Joshi	Data Science	Engineering	18	61	373	74.6	B
+114	R1114	Arjun Nair	Electronics	Engineering	19	82	320	64	B
+115	R1115	Neha Mehta	Computer Science	Data	25	62	317	63.4	B
+116	R1116	Pooja Kulkarni	Computer Science	AI	21	78	383	76.6	B
+117	R1117	Sneha Sharma	Artificial Intelligence	Engineering	22	64	279	55.8	C
+118	R1118	Neha Gupta	Data Science	Engineering	22	89	262	52.4	C
+119	R1119	Sneha Joshi	Information Technology	Engineering	21	62	318	63.6	B
+120	R1120	Priya Kulkarni	Electronics	AI	19	99	361	72.2	B
+121	R1121	Anjali Mehta	Data Science	Core	19	88	346	69.2	B
+122	R1122	Arjun Patel	Electronics	Engineering	24	99	372	74.4	B
+123	R1123	Amit Patel	Mechanical Engineering	Core	20	82	411	82.2	B
+124	R1124	Anjali Joshi	Computer Science	IT	20	100	317	63.4	B
+125	R1125	Sneha Singh	Data Science	IT	24	97	336	67.2	B
+126	R1126	Amit Verma	Mechanical Engineering	AI	23	82	381	76.2	B
+127	R1127	Priya Patel	Data Science	Engineering	18	64	363	72.6	B
+128	R1128	Pooja Mehta	Computer Science	AI	20	93	291	58.2	C
+129	R1129	Priya Kulkarni	Artificial Intelligence	AI	21	86	248	49.6	C
+130	R1130	Priya Desai	Artificial Intelligence	IT	20	69	313	62.6	B
+131	R1131	Karan Mehta	Data Science	IT	19	85	282	56.4	C
+132	R1132	Karan Desai	Computer Science	Core	20	73	401	80.2	B
+133	R1133	Rohan Nair	Mechanical Engineering	Engineering	21	68	296	59.2	C
+134	R1134	Priya Sharma	Computer Science	AI	22	67	314	62.8	B
+135	R1135	Amit Kulkarni	Mechanical Engineering	Engineering	20	88	381	76.2	B
+136	R1136	Anjali Joshi	Data Science	Engineering	25	82	363	72.6	B
+137	R1137	Pooja Patel	Data Science	Data	24	83	299	59.8	C
+138	R1138	Arjun Patel	Information Technology	Data	21	85	383	76.6	B
+139	R1139	Sneha Mehta	Data Science	AI	22	71	343	68.6	B
+140	R1140	Rohan Singh	Mechanical Engineering	Engineering	25	81	281	56.2	C
+141	R1141	Karan Mehta	Electronics	Data	24	84	360	72	B
+142	R1142	Rahul Verma	Electronics	Engineering	25	80	347	69.4	B
+143	R1143	Anjali Mehta	Electronics	Engineering	23	95	363	72.6	B
+144	R1144	Sneha Nair	Computer Science	Data	24	70	405	81	B
+145	R1145	Rahul Singh	Mechanical Engineering	Core	18	89	275	55	C
+146	R1146	Rohan Nair	Artificial Intelligence	AI	22	64	343	68.6	B
+147	R1147	Neha Mehta	Computer Science	Core	18	87	319	63.8	B
+148	R1148	Anjali Mehta	Electronics	IT	25	82	405	81	B
+149	R1149	Arjun Verma	Information Technology	AI	23	98	340	68	B
+150	R1150	Neha Kulkarni	Artificial Intelligence	AI	21	78	350	70	B
+151	R1151	Rahul Nair	Mechanical Engineering	IT	21	65	384	76.8	B
+152	R1152	Pooja Desai	Computer Science	Data	19	73	355	71	B
+153	R1153	Anjali Nair	Electronics	Data	23	64	376	75.2	B
+154	R1154	Karan Singh	Mechanical Engineering	Core	18	75	285	57	C
+155	R1155	Sneha Patel	Electronics	Engineering	25	83	346	69.2	B
+156	R1156	Anjali Singh	Artificial Intelligence	IT	18	93	395	79	B
+157	R1157	Rohan Sharma	Mechanical Engineering	IT	25	86	383	76.6	B
+158	R1158	Sneha Mehta	Artificial Intelligence	IT	22	82	282	56.4	C
+159	R1159	Sneha Singh	Electronics	Core	25	92	349	69.8	B
+160	R1160	Neha Kulkarni	Electronics	Data	19	73	409	81.8	B
+161	R1161	Sneha Gupta	Data Science	Engineering	20	60	308	61.6	B
+162	R1162	Priya Sharma	Computer Science	AI	24	76	300	60	B
+163	R1163	Karan Desai	Mechanical Engineering	IT	20	68	312	62.4	B
+164	R1164	Anjali Kulkarni	Electronics	Data	24	97	308	61.6	B
+165	R1165	Arjun Desai	Mechanical Engineering	Data	22	93	303	60.6	B
+166	R1166	Neha Joshi	Mechanical Engineering	AI	18	65	367	73.4	B
+167	R1167	Sneha Verma	Data Science	Engineering	19	68	393	78.6	B
+168	R1168	Rohan Patel	Computer Science	Data	25	92	331	66.2	B
+169	R1169	Arjun Verma	Computer Science	Engineering	21	65	297	59.4	C
+170	R1170	Priya Patel	Electronics	Data	21	78	318	63.6	B
+171	R1171	Pooja Verma	Data Science	AI	23	72	242	48.4	C
+172	R1172	Karan Nair	Information Technology	Core	20	93	324	64.8	B
+173	R1173	Anjali Gupta	Computer Science	Core	25	95	380	76	B
+174	R1174	Priya Singh	Data Science	IT	25	94	366	73.2	B
+175	R1175	Neha Mehta	Data Science	AI	19	100	274	54.8	C
+176	R1176	Sneha Patel	Computer Science	Engineering	25	65	292	58.4	C
+177	R1177	Rahul Mehta	Mechanical Engineering	IT	18	62	231	46.2	C
+178	R1178	Priya Mehta	Computer Science	IT	18	63	264	52.8	C
+179	R1179	Amit Verma	Information Technology	Core	25	100	302	60.4	B
+180	R1180	Rahul Mehta	Information Technology	IT	21	70	315	63	B
+181	R1181	Amit Kulkarni	Artificial Intelligence	Engineering	20	85	270	54	C
+182	R1182	Pooja Joshi	Mechanical Engineering	Core	20	86	322	64.4	B
+183	R1183	Arjun Verma	Electronics	Core	21	98	330	66	B
+184	R1184	Priya Joshi	Computer Science	Core	21	65	283	56.6	C
+185	R1185	Pooja Desai	Electronics	Data	23	70	345	69	B
+186	R1186	Pooja Kulkarni	Electronics	AI	22	82	327	65.4	B
+187	R1187	Arjun Singh	Mechanical Engineering	IT	21	64	364	72.8	B
+188	R1188	Arjun Sharma	Information Technology	Engineering	18	72	333	66.6	B
+189	R1189	Arjun Gupta	Data Science	Engineering	25	62	341	68.2	B
+190	R1190	Priya Nair	Mechanical Engineering	Engineering	19	92	352	70.4	B
+191	R1191	Rahul Nair	Information Technology	Core	20	65	331	66.2	B
+192	R1192	Rohan Sharma	Computer Science	Engineering	19	60	349	69.8	B
+193	R1193	Neha Mehta	Computer Science	Engineering	22	82	408	81.6	B
+194	R1194	Amit Joshi	Data Science	IT	21	64	310	62	B
+195	R1195	Anjali Singh	Data Science	IT	19	91	366	73.2	B
+196	R1196	Pooja Sharma	Information Technology	IT	19	85	370	74	B
+197	R1197	Rohan Desai	Computer Science	Core	20	60	344	68.8	B
+198	R1198	Pooja Kulkarni	Artificial Intelligence	Data	25	67	365	73	B
+199	R1199	Rahul Singh	Computer Science	Core	22	64	315	63	B
+200	R1200	Rahul Joshi	Data Science	Data	22	89	282	56.4	C
+201	R1201	Sneha Sharma	Data Science	IT	21	92	313	62.6	B
+202	R1202	Amit Desai	Electronics	Core	25	66	355	71	B
+203	R1203	Amit Nair	Information Technology	Engineering	23	73	366	73.2	B
+204	R1204	Anjali Gupta	Electronics	IT	19	78	313	62.6	B
+205	R1205	Arjun Nair	Data Science	Core	19	60	264	52.8	C
+206	R1206	Amit Verma	Electronics	IT	23	60	339	67.8	B
+207	R1207	Rohan Verma	Information Technology	Data	23	99	362	72.4	B
+208	R1208	Rahul Sharma	Information Technology	AI	24	72	241	48.2	C
+209	R1209	Rahul Nair	Data Science	IT	23	88	320	64	B
+210	R1210	Amit Singh	Artificial Intelligence	Engineering	23	88	327	65.4	B
+211	R1211	Arjun Sharma	Artificial Intelligence	AI	18	71	292	58.4	C
+212	R1212	Karan Joshi	Mechanical Engineering	Data	19	100	384	76.8	B
+213	R1213	Sneha Verma	Artificial Intelligence	Core	25	76	406	81.2	B
+214	R1214	Anjali Nair	Artificial Intelligence	Data	22	72	337	67.4	B
+215	R1215	Pooja Nair	Data Science	Data	23	69	317	63.4	B
+216	R1216	Arjun Verma	Artificial Intelligence	Core	22	91	344	68.8	B
+217	R1217	Anjali Singh	Electronics	AI	22	68	439	87.8	A
+218	R1218	Priya Joshi	Mechanical Engineering	Data	21	98	294	58.8	C
+219	R1219	Anjali Singh	Data Science	Core	20	85	389	77.8	B
+220	R1220	Rahul Nair	Information Technology	Engineering	22	60	369	73.8	B
+221	R1221	Priya Verma	Mechanical Engineering	Core	22	96	399	79.8	B
+222	R1222	Priya Desai	Artificial Intelligence	AI	19	68	368	73.6	B
+223	R1223	Arjun Singh	Data Science	IT	25	100	452	90.4	A
+224	R1224	Anjali Mehta	Artificial Intelligence	Engineering	22	81	317	63.4	B
+225	R1225	Priya Mehta	Artificial Intelligence	IT	25	95	335	67	B
+226	R1226	Sneha Gupta	Data Science	Data	18	79	305	61	B
+227	R1227	Karan Gupta	Information Technology	IT	19	89	411	82.2	B
+228	R1228	Rahul Gupta	Mechanical Engineering	AI	21	68	321	64.2	B
+229	R1229	Sneha Joshi	Mechanical Engineering	Engineering	22	85	253	50.6	C
+230	R1230	Rahul Patel	Artificial Intelligence	AI	23	95	303	60.6	B
+231	R1231	Amit Verma	Information Technology	Core	23	87	359	71.8	B
+232	R1232	Amit Sharma	Artificial Intelligence	Engineering	22	100	362	72.4	B
+233	R1233	Anjali Verma	Computer Science	AI	25	71	272	54.4	C
+234	R1234	Priya Gupta	Information Technology	Core	24	98	328	65.6	B
+235	R1235	Anjali Joshi	Data Science	Core	22	99	286	57.2	C
+236	R1236	Neha Desai	Artificial Intelligence	Engineering	24	74	363	72.6	B
+237	R1237	Rohan Singh	Electronics	IT	19	64	301	60.2	B
+238	R1238	Rohan Gupta	Computer Science	Engineering	24	71	422	84.4	B
+239	R1239	Rahul Patel	Computer Science	Data	18	67	381	76.2	B
+240	R1240	Rohan Mehta	Computer Science	Engineering	23	79	318	63.6	B
+241	R1241	Pooja Verma	Mechanical Engineering	Engineering	20	87	350	70	B
+242	R1242	Arjun Gupta	Mechanical Engineering	Data	22	81	389	77.8	B
+243	R1243	Neha Gupta	Electronics	IT	18	97	352	70.4	B
+244	R1244	Sneha Sharma	Electronics	Core	25	94	363	72.6	B
+245	R1245	Rahul Verma	Mechanical Engineering	AI	19	65	359	71.8	B
+246	R1246	Arjun Kulkarni	Information Technology	IT	21	81	290	58	C
+247	R1247	Pooja Mehta	Electronics	Engineering	23	87	393	78.6	B
+248	R1248	Rohan Kulkarni	Electronics	Core	25	93	365	73	B
+249	R1249	Rahul Patel	Information Technology	Core	23	84	360	72	B
+250	R1250	Arjun Singh	Artificial Intelligence	AI	24	73	447	89.4	A
+251	R1251	Pooja Patel	Mechanical Engineering	Engineering	19	98	350	70	B
+252	R1252	Sneha Desai	Artificial Intelligence	AI	22	92	310	62	B
+253	R1253	Sneha Kulkarni	Mechanical Engineering	IT	19	61	291	58.2	C
+254	R1254	Arjun Kulkarni	Mechanical Engineering	IT	21	85	341	68.2	B
+255	R1255	Arjun Sharma	Computer Science	AI	22	77	334	66.8	B
+256	R1256	Karan Desai	Artificial Intelligence	Engineering	23	99	360	72	B
+257	R1257	Priya Patel	Mechanical Engineering	Data	22	82	395	79	B
+258	R1258	Rohan Mehta	Mechanical Engineering	Data	19	77	298	59.6	C
+259	R1259	Sneha Patel	Mechanical Engineering	Engineering	20	62	365	73	B
+260	R1260	Priya Gupta	Artificial Intelligence	IT	18	88	326	65.2	B
+261	R1261	Rahul Desai	Electronics	AI	20	78	326	65.2	B
+262	R1262	Arjun Sharma	Information Technology	IT	23	97	255	51	C
+263	R1263	Arjun Sharma	Information Technology	Data	25	64	369	73.8	B
+264	R1264	Rahul Gupta	Computer Science	Engineering	21	70	303	60.6	B
+265	R1265	Neha Gupta	Computer Science	Core	23	90	372	74.4	B
+266	R1266	Rohan Gupta	Artificial Intelligence	IT	21	81	388	77.6	B
+267	R1267	Rohan Joshi	Information Technology	Engineering	19	74	295	59	C
+268	R1268	Amit Desai	Computer Science	IT	19	66	391	78.2	B
+269	R1269	Rohan Verma	Electronics	AI	21	70	268	53.6	C
+270	R1270	Rohan Desai	Information Technology	AI	19	90	346	69.2	B
+271	R1271	Pooja Mehta	Electronics	Data	18	96	266	53.2	C
+272	R1272	Anjali Mehta	Mechanical Engineering	Data	21	93	395	79	B
+273	R1273	Amit Joshi	Computer Science	IT	25	87	299	59.8	C
+274	R1274	Karan Kulkarni	Data Science	Core	22	68	311	62.2	B
+275	R1275	Priya Mehta	Electronics	IT	24	68	356	71.2	B
+276	R1276	Anjali Joshi	Mechanical Engineering	AI	20	83	313	62.6	B
+277	R1277	Rohan Patel	Data Science	IT	22	67	318	63.6	B
+278	R1278	Rohan Nair	Mechanical Engineering	IT	20	68	361	72.2	B
+279	R1279	Karan Gupta	Information Technology	Core	20	61	303	60.6	B
+280	R1280	Rohan Kulkarni	Mechanical Engineering	AI	25	97	297	59.4	C
+281	R1281	Anjali Verma	Information Technology	Engineering	25	74	367	73.4	B
+282	R1282	Karan Nair	Electronics	IT	22	61	391	78.2	B
+283	R1283	Rahul Joshi	Electronics	AI	25	80	317	63.4	B
+284	R1284	Anjali Sharma	Data Science	Data	19	93	268	53.6	C
+285	R1285	Sneha Verma	Computer Science	Data	19	88	264	52.8	C
+286	R1286	Arjun Mehta	Computer Science	AI	22	67	348	69.6	B
+287	R1287	Rahul Singh	Electronics	Data	23	60	399	79.8	B
+288	R1288	Arjun Kulkarni	Information Technology	Engineering	22	69	381	76.2	B
+289	R1289	Karan Mehta	Data Science	IT	24	72	334	66.8	B
+290	R1290	Priya Singh	Computer Science	AI	18	74	315	63	B
+291	R1291	Neha Mehta	Electronics	Core	18	82	371	74.2	B
+292	R1292	Priya Patel	Electronics	Core	25	67	361	72.2	B
+293	R1293	Pooja Joshi	Computer Science	AI	24	94	310	62	B
+294	R1294	Rahul Joshi	Data Science	Core	22	66	339	67.8	B
+295	R1295	Priya Desai	Information Technology	IT	22	65	274	54.8	C
+296	R1296	Rohan Singh	Artificial Intelligence	Data	23	89	336	67.2	B
+297	R1297	Priya Gupta	Mechanical Engineering	Engineering	18	71	368	73.6	B
+298	R1298	Rahul Sharma	Information Technology	IT	25	93	291	58.2	C
+299	R1299	Karan Verma	Information Technology	AI	20	91	400	80	B
+300	R1300	Sneha Gupta	Data Science	Engineering	19	60	321	64.2	B
+301	R1301	Neha Nair	Electronics	IT	20	96	324	64.8	B
+302	R1302	Neha Verma	Computer Science	Engineering	21	65	324	64.8	B
+303	R1303	Sneha Nair	Artificial Intelligence	Core	22	89	284	56.8	C
+304	R1304	Neha Singh	Data Science	Engineering	22	86	396	79.2	B
+305	R1305	Rahul Mehta	Mechanical Engineering	Data	23	91	312	62.4	B
+306	R1306	Sneha Gupta	Electronics	Engineering	21	68	425	85	A
+307	R1307	Karan Patel	Computer Science	IT	20	99	326	65.2	B
+308	R1308	Priya Desai	Information Technology	IT	21	85	396	79.2	B
+309	R1309	Neha Sharma	Data Science	IT	18	66	386	77.2	B
+310	R1310	Amit Gupta	Data Science	Core	19	73	321	64.2	B
+311	R1311	Priya Desai	Information Technology	Core	20	67	338	67.6	B
+312	R1312	Sneha Gupta	Mechanical Engineering	IT	25	97	325	65	B
+313	R1313	Priya Kulkarni	Computer Science	Core	22	83	280	56	C
+314	R1314	Sneha Nair	Electronics	Core	23	98	368	73.6	B
+315	R1315	Pooja Verma	Data Science	Data	25	92	330	66	B
+316	R1316	Rahul Patel	Computer Science	Core	22	76	338	67.6	B
+317	R1317	Rohan Mehta	Data Science	Engineering	25	72	371	74.2	B
+318	R1318	Priya Sharma	Mechanical Engineering	Engineering	25	68	334	66.8	B
+319	R1319	Neha Sharma	Computer Science	Core	24	84	345	69	B
+320	R1320	Amit Joshi	Mechanical Engineering	Data	18	75	247	49.4	C
+321	R1321	Anjali Nair	Mechanical Engineering	Data	22	92	355	71	B
+322	R1322	Pooja Joshi	Mechanical Engineering	Data	22	71	295	59	C
+323	R1323	Karan Desai	Artificial Intelligence	AI	19	77	342	68.4	B
+324	R1324	Karan Desai	Artificial Intelligence	IT	23	64	329	65.8	B
+325	R1325	Rohan Desai	Artificial Intelligence	Engineering	23	84	334	66.8	B
+326	R1326	Rahul Mehta	Information Technology	Core	20	83	420	84	B
+327	R1327	Arjun Verma	Information Technology	Engineering	19	90	369	73.8	B
+328	R1328	Sneha Gupta	Data Science	Engineering	21	80	344	68.8	B
+329	R1329	Neha Nair	Computer Science	IT	21	74	332	66.4	B
+330	R1330	Sneha Joshi	Electronics	Engineering	21	87	318	63.6	B
+331	R1331	Rahul Mehta	Data Science	IT	20	72	360	72	B
+332	R1332	Anjali Gupta	Information Technology	Core	23	81	327	65.4	B
+333	R1333	Amit Kulkarni	Information Technology	Data	20	100	345	69	B
+334	R1334	Pooja Kulkarni	Electronics	Data	22	89	364	72.8	B
+335	R1335	Rahul Singh	Mechanical Engineering	Engineering	18	86	334	66.8	B
+336	R1336	Amit Kulkarni	Mechanical Engineering	AI	23	93	331	66.2	B
+337	R1337	Amit Singh	Computer Science	AI	25	99	387	77.4	B
+338	R1338	Rohan Mehta	Information Technology	Data	22	79	288	57.6	C
+339	R1339	Karan Patel	Electronics	AI	25	92	325	65	B
+340	R1340	Amit Sharma	Mechanical Engineering	AI	23	74	295	59	C
+341	R1341	Priya Verma	Artificial Intelligence	Engineering	23	78	306	61.2	B
+342	R1342	Rohan Verma	Electronics	AI	22	97	366	73.2	B
+343	R1343	Rahul Nair	Data Science	Core	23	88	414	82.8	B
+344	R1344	Sneha Verma	Data Science	AI	22	98	343	68.6	B
+345	R1345	Arjun Sharma	Computer Science	Engineering	18	83	357	71.4	B
+346	R1346	Neha Gupta	Data Science	IT	18	95	361	72.2	B
+347	R1347	Priya Nair	Artificial Intelligence	Data	18	99	265	53	C
+348	R1348	Rohan Joshi	Mechanical Engineering	Engineering	23	60	317	63.4	B
+349	R1349	Arjun Sharma	Information Technology	Engineering	18	72	442	88.4	A
+350	R1350	Anjali Gupta	Electronics	Engineering	19	94	354	70.8	B
+351	R1351	Anjali Nair	Artificial Intelligence	Engineering	22	90	312	62.4	B
+352	R1352	Rohan Mehta	Mechanical Engineering	Data	18	80	434	86.8	A
+353	R1353	Pooja Mehta	Mechanical Engineering	IT	21	62	294	58.8	C
+354	R1354	Priya Nair	Mechanical Engineering	AI	20	62	348	69.6	B
+355	R1355	Pooja Joshi	Computer Science	Engineering	22	96	337	67.4	B
+356	R1356	Karan Verma	Computer Science	Engineering	24	82	327	65.4	B
+357	R1357	Priya Patel	Information Technology	Core	23	78	291	58.2	C
+358	R1358	Arjun Sharma	Electronics	Data	23	70	305	61	B
+359	R1359	Pooja Verma	Mechanical Engineering	Data	21	61	370	74	B
+360	R1360	Priya Verma	Information Technology	AI	20	64	291	58.2	C
+361	R1361	Sneha Kulkarni	Data Science	Data	19	70	323	64.6	B
+362	R1362	Pooja Patel	Mechanical Engineering	AI	21	100	317	63.4	B
+363	R1363	Arjun Gupta	Information Technology	Core	25	66	330	66	B
+364	R1364	Anjali Singh	Computer Science	Data	22	75	342	68.4	B
+365	R1365	Priya Sharma	Data Science	Data	25	63	308	61.6	B
+366	R1366	Pooja Verma	Data Science	AI	23	75	375	75	B
+367	R1367	Arjun Nair	Artificial Intelligence	IT	22	60	308	61.6	B
+368	R1368	Rahul Singh	Electronics	IT	21	67	372	74.4	B
+369	R1369	Anjali Patel	Information Technology	Data	20	60	358	71.6	B
+370	R1370	Rohan Gupta	Data Science	Engineering	21	65	334	66.8	B
+371	R1371	Neha Gupta	Information Technology	Core	22	79	343	68.6	B
+372	R1372	Sneha Nair	Electronics	IT	18	83	363	72.6	B
+373	R1373	Rohan Joshi	Artificial Intelligence	Engineering	21	89	374	74.8	B
+374	R1374	Sneha Sharma	Artificial Intelligence	Core	20	76	386	77.2	B
+375	R1375	Pooja Singh	Computer Science	AI	21	100	298	59.6	C
+376	R1376	Arjun Nair	Mechanical Engineering	AI	20	64	282	56.4	C
+377	R1377	Priya Mehta	Mechanical Engineering	Core	21	87	379	75.8	B
+378	R1378	Rohan Patel	Data Science	Engineering	19	80	327	65.4	B
+379	R1379	Sneha Desai	Data Science	Data	19	94	258	51.6	C
+380	R1380	Priya Desai	Computer Science	Core	22	99	310	62	B
+381	R1381	Pooja Sharma	Electronics	AI	25	89	285	57	C
+382	R1382	Anjali Joshi	Information Technology	Engineering	23	98	391	78.2	B
+383	R1383	Pooja Gupta	Information Technology	Core	21	86	285	57	C
+384	R1384	Anjali Singh	Data Science	Core	21	76	382	76.4	B
+385	R1385	Amit Verma	Data Science	Data	18	100	401	80.2	B
+386	R1386	Neha Singh	Mechanical Engineering	AI	19	69	295	59	C
+387	R1387	Rohan Nair	Mechanical Engineering	IT	20	65	363	72.6	B
+388	R1388	Rahul Nair	Electronics	Core	25	60	366	73.2	B
+389	R1389	Rahul Singh	Computer Science	IT	19	93	350	70	B
+390	R1390	Rohan Desai	Artificial Intelligence	Core	20	86	347	69.4	B
+391	R1391	Pooja Joshi	Artificial Intelligence	Data	19	83	365	73	B
+392	R1392	Anjali Nair	Artificial Intelligence	Core	18	70	331	66.2	B
+393	R1393	Karan Mehta	Computer Science	Core	19	70	225	45	C
+394	R1394	Rahul Singh	Data Science	Data	25	99	332	66.4	B
+395	R1395	Anjali Patel	Mechanical Engineering	IT	22	95	323	64.6	B
+396	R1396	Rohan Desai	Information Technology	AI	24	60	354	70.8	B
+397	R1397	Neha Singh	Computer Science	Data	25	75	406	81.2	B
+398	R1398	Priya Desai	Artificial Intelligence	Data	22	82	323	64.6	B
+399	R1399	Karan Sharma	Electronics	IT	25	77	386	77.2	B
+400	R1400	Rohan Verma	Computer Science	Data	22	78	348	69.6	B
+401	R1401	Karan Gupta	Data Science	Core	22	72	347	69.4	B
+402	R1402	Rahul Gupta	Data Science	Core	25	90	339	67.8	B
+403	R1403	Karan Verma	Computer Science	Data	21	69	271	54.2	C
+404	R1404	Amit Desai	Data Science	IT	24	70	298	59.6	C
+405	R1405	Neha Kulkarni	Information Technology	Data	20	96	373	74.6	B
+406	R1406	Rahul Mehta	Electronics	Engineering	18	70	273	54.6	C
+407	R1407	Priya Joshi	Electronics	Core	20	85	347	69.4	B
+408	R1408	Karan Verma	Information Technology	Data	24	97	389	77.8	B
+409	R1409	Karan Desai	Data Science	IT	23	82	358	71.6	B
+410	R1410	Rahul Sharma	Data Science	Data	25	81	270	54	C
+411	R1411	Sneha Desai	Artificial Intelligence	AI	23	63	370	74	B
+412	R1412	Neha Singh	Mechanical Engineering	IT	21	67	372	74.4	B
+413	R1413	Karan Singh	Computer Science	Data	18	78	376	75.2	B
+414	R1414	Karan Verma	Artificial Intelligence	Core	25	98	337	67.4	B
+415	R1415	Rohan Patel	Electronics	AI	20	66	369	73.8	B
+416	R1416	Amit Verma	Artificial Intelligence	Data	18	92	363	72.6	B
+417	R1417	Sneha Gupta	Artificial Intelligence	Engineering	22	60	300	60	B
+418	R1418	Karan Sharma	Artificial Intelligence	IT	24	60	383	76.6	B
+419	R1419	Karan Gupta	Information Technology	AI	21	98	340	68	B
+420	R1420	Amit Gupta	Computer Science	Engineering	25	93	387	77.4	B
+421	R1421	Arjun Desai	Information Technology	Engineering	25	89	294	58.8	C
+422	R1422	Priya Gupta	Mechanical Engineering	AI	21	60	331	66.2	B
+423	R1423	Priya Desai	Computer Science	IT	24	60	321	64.2	B
+424	R1424	Amit Joshi	Electronics	Core	19	75	429	85.8	A
+425	R1425	Amit Verma	Electronics	IT	22	70	244	48.8	C
+426	R1426	Sneha Nair	Computer Science	AI	19	85	329	65.8	B
+427	R1427	Priya Patel	Electronics	IT	24	98	286	57.2	C
+428	R1428	Rohan Nair	Electronics	Engineering	20	61	334	66.8	B
+429	R1429	Sneha Verma	Computer Science	Data	21	91	376	75.2	B
+430	R1430	Priya Gupta	Mechanical Engineering	Data	25	64	414	82.8	B
+431	R1431	Arjun Kulkarni	Artificial Intelligence	AI	19	79	301	60.2	B
+432	R1432	Amit Kulkarni	Electronics	Data	25	100	292	58.4	C
+433	R1433	Neha Patel	Mechanical Engineering	Data	21	71	320	64	B
+434	R1434	Rohan Patel	Information Technology	Data	18	86	324	64.8	B
+435	R1435	Rohan Desai	Artificial Intelligence	Core	20	77	428	85.6	A
+436	R1436	Amit Joshi	Artificial Intelligence	Engineering	19	69	332	66.4	B
+437	R1437	Pooja Desai	Computer Science	Engineering	23	69	379	75.8	B
+438	R1438	Rohan Gupta	Data Science	AI	20	88	377	75.4	B
+439	R1439	Amit Patel	Mechanical Engineering	Data	25	91	368	73.6	B
+440	R1440	Priya Joshi	Artificial Intelligence	Engineering	18	84	394	78.8	B
+441	R1441	Anjali Sharma	Information Technology	AI	21	81	257	51.4	C
+442	R1442	Rahul Verma	Computer Science	IT	25	66	337	67.4	B
+443	R1443	Arjun Mehta	Data Science	Engineering	21	64	297	59.4	C
+444	R1444	Pooja Nair	Information Technology	AI	22	80	322	64.4	B
+445	R1445	Arjun Sharma	Artificial Intelligence	IT	18	68	247	49.4	C
+446	R1446	Karan Verma	Electronics	Engineering	18	73	314	62.8	B
+447	R1447	Priya Kulkarni	Electronics	Core	21	88	314	62.8	B
+448	R1448	Rohan Verma	Artificial Intelligence	Core	21	69	297	59.4	C
+449	R1449	Sneha Verma	Electronics	Core	22	88	312	62.4	B
+450	R1450	Rahul Sharma	Information Technology	Engineering	19	88	278	55.6	C
+451	R1451	Arjun Patel	Mechanical Engineering	Data	23	74	361	72.2	B
+452	R1452	Pooja Gupta	Mechanical Engineering	Core	22	76	320	64	B
+453	R1453	Amit Nair	Electronics	Core	21	76	431	86.2	A
+454	R1454	Neha Nair	Artificial Intelligence	IT	23	92	269	53.8	C
+455	R1455	Priya Joshi	Information Technology	AI	24	67	358	71.6	B
+456	R1456	Arjun Mehta	Artificial Intelligence	IT	25	82	314	62.8	B
+457	R1457	Arjun Mehta	Electronics	Data	19	93	347	69.4	B
+458	R1458	Rahul Desai	Artificial Intelligence	AI	23	91	412	82.4	B
+459	R1459	Rohan Sharma	Information Technology	IT	19	88	306	61.2	B
+460	R1460	Rohan Patel	Artificial Intelligence	AI	24	91	337	67.4	B
+461	R1461	Arjun Gupta	Artificial Intelligence	Data	19	63	402	80.4	B
+462	R1462	Anjali Mehta	Data Science	Engineering	25	67	377	75.4	B
+463	R1463	Karan Desai	Data Science	Engineering	18	70	390	78	B
+464	R1464	Rohan Verma	Mechanical Engineering	Data	18	82	326	65.2	B
+465	R1465	Amit Patel	Computer Science	AI	19	64	331	66.2	B
+466	R1466	Priya Gupta	Electronics	Core	24	65	336	67.2	B
+467	R1467	Arjun Singh	Information Technology	Data	24	62	341	68.2	B
+468	R1468	Anjali Sharma	Electronics	Data	19	70	330	66	B
+469	R1469	Rahul Gupta	Artificial Intelligence	AI	22	88	318	63.6	B
+470	R1470	Priya Patel	Computer Science	IT	20	80	320	64	B
+471	R1471	Sneha Verma	Information Technology	Engineering	18	93	268	53.6	C
+472	R1472	Priya Nair	Information Technology	AI	21	74	351	70.2	B
+473	R1473	Pooja Mehta	Mechanical Engineering	IT	18	65	387	77.4	B
+474	R1474	Rahul Patel	Mechanical Engineering	Data	22	88	292	58.4	C
+475	R1475	Pooja Patel	Electronics	AI	24	80	331	66.2	B
+476	R1476	Priya Sharma	Electronics	AI	20	70	371	74.2	B
+477	R1477	Anjali Nair	Electronics	IT	18	83	345	69	B
+478	R1478	Rohan Patel	Data Science	IT	22	99	291	58.2	C
+479	R1479	Amit Nair	Electronics	Data	20	94	294	58.8	C
+480	R1480	Rahul Kulkarni	Computer Science	Core	24	99	357	71.4	B
+481	R1481	Neha Desai	Mechanical Engineering	IT	22	100	333	66.6	B
+482	R1482	Rahul Joshi	Electronics	AI	19	63	319	63.8	B
+483	R1483	Karan Desai	Data Science	Engineering	18	91	312	62.4	B
+484	R1484	Amit Gupta	Computer Science	Engineering	25	93	349	69.8	B
+485	R1485	Amit Desai	Electronics	Engineering	21	85	344	68.8	B
+486	R1486	Rahul Singh	Artificial Intelligence	Core	25	74	353	70.6	B
+487	R1487	Amit Desai	Electronics	IT	18	89	322	64.4	B
+488	R1488	Priya Sharma	Computer Science	Engineering	18	80	392	78.4	B
+489	R1489	Pooja Gupta	Data Science	Core	24	78	393	78.6	B
+490	R1490	Sneha Mehta	Artificial Intelligence	AI	21	93	300	60	B
+491	R1491	Neha Mehta	Electronics	Engineering	23	85	393	78.6	B
+492	R1492	Arjun Joshi	Information Technology	IT	21	73	297	59.4	C
+493	R1493	Priya Mehta	Computer Science	Engineering	21	83	344	68.8	B
+494	R1494	Rohan Desai	Data Science	Engineering	25	90	421	84.2	B
+495	R1495	Rahul Singh	Information Technology	Data	19	96	405	81	B
+496	R1496	Arjun Gupta	Computer Science	Engineering	21	93	345	69	B
+497	R1497	Neha Verma	Artificial Intelligence	Data	19	92	370	74	B
+498	R1498	Rohan Nair	Electronics	AI	21	90	344	68.8	B
+499	R1499	Pooja Desai	Information Technology	AI	20	87	295	59	C
+500	R1500	Rohan Patel	Information Technology	IT	22	92	261	52.2	C
